@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "product-list",
+		"path": "../../../Desktop/product-list"
+	},
+	{
+		"name": "design",
+		"path": "../design"
+	},
+	{
+		"name": "assets",
+		"path": "."
+	}
+],
+  "settings": {}
+}
