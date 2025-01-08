@@ -1,4 +1,4 @@
-import React from "react";
+
 import emptyCard from "../../assets/images/illustration-empty-cart.svg";
 import deleteButton from "../../assets/images/icon-remove-item.svg";
 

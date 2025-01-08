@@ -1,6 +1,5 @@
 /* eslint-disable react/prop-types */
-import React from "react";
-import { useState } from "react";
+
 
 import addButton from "../../assets/images/icon-add-to-cart.svg";
 const ProductCard = ({ product, onAddToCart }) => {

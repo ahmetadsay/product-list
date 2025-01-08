@@ -1,4 +1,4 @@
-import ProductCard from "./components/productCard";
+import ProductCard from "./components/ProductCard";
 import products from "../data.json";
 import Cart from "./components/Cart";
 import { useState } from "react";
